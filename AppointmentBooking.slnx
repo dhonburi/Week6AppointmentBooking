@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/StudentWork/">
+    <File Path="Week6CycleAddendum.md" />
+  </Folder>
+  <Project Path="AppointmentBooking.Tests/AppointmentBooking.Tests.csproj" />
+  <Project Path="AppointmentBooking/AppointmentBooking.csproj" />
+</Solution>
