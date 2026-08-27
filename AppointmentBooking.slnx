@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/StudentWork/">
+    <File Path="Week6AnomalyClassification.md" />
+    <File Path="Week6CompletionReport.md" />
     <File Path="Week6CycleAddendum.md" />
+    <File Path="Week6ProgressReport.md" />
   </Folder>
   <Project Path="AppointmentBooking.Tests/AppointmentBooking.Tests.csproj" />
   <Project Path="AppointmentBooking/AppointmentBooking.csproj" />
